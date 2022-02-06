@@ -1,7 +1,7 @@
 # DisResolution
 A cmd tool for settings windows resolution!
 
-#TODO
+# TODO
 
 添加查询设备分辨率功能
 
